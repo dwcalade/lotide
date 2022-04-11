@@ -1,5 +1,5 @@
 {
-  "name": "dwcalade/lotide",
+  "name": "dwcalade-lotide",
   "version": "1.0.0",
   "description": "A mini clone of the Lodash Library",
   "main": "assertArraysEqual.js",
