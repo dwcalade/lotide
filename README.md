@@ -26,7 +26,7 @@ This project was created and published by me as part of my learnings at Lighthou
 
 The following functions are currently implemented:
 
-assertArraysEqual: function that asserts if two arrays are equals
+assertArraysEqual(): function that asserts if two arrays are equals
 
 assertEqual: function that asserts if two values are equals
 
