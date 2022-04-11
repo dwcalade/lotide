@@ -27,10 +27,16 @@ This project was created and published by me as part of my learnings at Lighthou
 The following functions are currently implemented:
 
 assertArraysEqual: function that asserts if two arrays are equals
+
 assertEqual: function that asserts if two values are equals
+
 assertObjectsEqual: function that asserts if two objects are equals
+
 countLetters: function that returns counts of each letter of a string
-countOnly: function that takes items and returns counts for a specific subset of those items
+
+countOnly: function that takes items and returns counts for a specific 
+subset of those items
+
 eqArrays: function that compares two arrays
 eqObjects: function that compares two objects
 findKey: function that scans the object and return the first key for which the callback returns a truthy value
